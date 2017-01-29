@@ -6,6 +6,10 @@
 "icons": {
 "128": "icon.png"
 },
+"permissions": [
+   "cookies",
+   "*://*.google.com"
+ ],
 "chrome_url_overrides" : { "newtab": "index.html"
 }
 }
